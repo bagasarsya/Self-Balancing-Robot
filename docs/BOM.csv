@@ -1,0 +1,20 @@
+Component,Qty,Unit price (EUR est.),Phase,Specification,Notes
+ESP32 DevKit (WROOM-32),1,0,Prototype,"30-pin, dual core",Already owned
+MPU6050 (GY-521),2,2.50,Prototype,"6-axis IMU, I2C",One spare
+JGA25-370 gear motor with encoder,2,12.00,Prototype,"12V, 280-330 RPM, Hall encoder, 4 mm shaft",
+Wheels 65 mm + 4 mm hub,1,8.00,Prototype,Rubber wheels pair,
+DRV8871 motor driver module,2,4.00,Prototype,"6.5-45V, 3.6A peak",
+LiPo 3S 2200 mAh,1,25.00,Prototype,"11.1V, XT60",
+SkyRC e430 balance charger,1,32.00,Prototype,"2-4S, built-in AC",
+LiPo safety bag,1,6.00,Prototype,,
+LiPo voltage checker,1,2.00,Prototype,Low-voltage alarm,
+MP1584 buck converter,2,1.50,Prototype,Set to 5V,One spare
+XT60 connectors,1,3.00,Prototype,Male + female pairs,
+Power switch,1,2.00,Prototype,Min. 5A DC,
+Fuse holder + 5A fuse,1,3.00,Prototype,,
+Silicone wire 18 AWG,1,5.00,Prototype,Red + black,
+Breadboard + jumpers,1,8.00,Prototype,,Skip if owned
+Resistor kit,1,4.00,Prototype,For voltage divider (33k / 10k),Skip if owned
+GC9A01 1.28in round TFT,1,5.00,Optional,"240x240, SPI",Robot face
+PCB (JLCPCB, 5 pcs),1,15.00,PCB,2-layer incl. shipping,
+Filament,1,0,CAD,PLA or PETG,University printer
