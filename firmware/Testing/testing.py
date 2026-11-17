@@ -7,7 +7,7 @@ dt = 0.001
 omega = 0.0
 t = 0.0
 
-derajat = 2.0
+derajat = 10
 theta = math.radians(derajat)
 
 print(f"Sudut awal     : {theta:.4f} rad")
